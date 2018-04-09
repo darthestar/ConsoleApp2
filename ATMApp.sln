@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{E5F50F32-6F52-41AA-9F05-3034A6C05BDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMApp", "ConsoleApp2\ATMApp.csproj", "{E5F50F32-6F52-41AA-9F05-3034A6C05BDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
